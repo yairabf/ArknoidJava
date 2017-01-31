@@ -4,10 +4,10 @@
 START_LEVEL
 level_name: Come On You Reds
 ball_velocities:-60,400 -45,350 -30,450
-background:image(background_images/MUFC.jpg)
+background:image(resources/background_images/MUFC.jpg)
 paddle_speed:500
 paddle_width:200
-block_definitions:definitions/MUFC_block_definition.txt
+block_definitions:resources/definitions/MUFC_block_definition.txt
 blocks_start_x:25
 blocks_start_y:80
 row_height:25
@@ -29,10 +29,10 @@ END_LEVEL
 START_LEVEL
 level_name:Three Lions
 ball_velocities:45,500
-background:image(background_images/england.jpg)
+background:image(resources/background_images/england.jpg)
 paddle_speed:650
 paddle_width:160
-block_definitions:definitions/three_lions_block_definition.txt
+block_definitions:resources/definitions/three_lions_block_definition.txt
 blocks_start_x:150
 blocks_start_y:150
 row_height:50
@@ -54,10 +54,10 @@ END_LEVEL
 START_LEVEL
 level_name:Welcome to the Jungle
 ball_velocities:45,350 -45,350 -30,350 30,350
-background:image(background_images/jungle.jpg)
+background:image(resources/background_images/jungle.jpg)
 paddle_speed:650
 paddle_width:160
-block_definitions:definitions/jungle_block_definitions.txt
+block_definitions:resources/definitions/jungle_block_definitions.txt
 blocks_start_x:25
 blocks_start_y:80
 row_height:25
